@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
