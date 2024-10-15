@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
