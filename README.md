@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
