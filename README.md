@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Queue
 |  |
 | ------- |
