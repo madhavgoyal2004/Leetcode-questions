@@ -15,9 +15,6 @@
  */
 class Solution {
     public TreeNode replaceValueInTree(TreeNode root) {
-        
-        HashMap<Integer, HashMap<Integer,Integer>> map = new HashMap<>();
-
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         int level = 0;
