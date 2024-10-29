@@ -14,9 +14,10 @@ class Solution {
         return dp[i][j];
     }
     public int maxMoves(int[][] grid) {
-        int [][] dp = new int[grid.length+1][grid[0].length + 1];
+        int [][] dp = new int[grid.length][grid[0].length];
         int ans = 0;
         for(int j = 0; j<grid.length;j++){
+            if(dp[j][0] == 0)
             ans = Math.max(ans, helper(grid, j , 0, dp));
         }
         return ans;
