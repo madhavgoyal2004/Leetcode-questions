@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
