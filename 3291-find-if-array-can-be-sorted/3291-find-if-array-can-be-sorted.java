@@ -22,7 +22,6 @@ class Solution {
             for(int j =1; j<nums.length; j++){
                 if(nums[j-1] > nums[j] && arr[j-1] == arr[j]){
                     swap(nums, j-1, j);
-                    swap(arr, j-1, j);
                 }
             }
         }
