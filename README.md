@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
