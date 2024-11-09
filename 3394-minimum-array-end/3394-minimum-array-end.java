@@ -10,14 +10,14 @@ class Solution {
             n = n >> 1;
             x = x >> 1;
         }
-        System.out.println(Arrays.toString(n_arr));
+        // System.out.println(Arrays.toString(n_arr));
 
 
         int j=0;
         for(int i=0; i<64; i++){
             if(x_arr[i] == 0) x_arr[i] = n_arr[j++];
         }
-        System.out.println(Arrays.toString(x_arr));
+        // System.out.println(Arrays.toString(x_arr));
 
         long result = 0;
         for(int i=63; i>=0 ; i--){
