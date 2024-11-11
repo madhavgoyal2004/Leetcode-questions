@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1304-longest-happy-string) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
+| [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
