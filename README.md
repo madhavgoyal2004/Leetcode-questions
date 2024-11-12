@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0890-lemonade-change) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1940-maximum-xor-for-each-query) |
 ## Binary Search
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
