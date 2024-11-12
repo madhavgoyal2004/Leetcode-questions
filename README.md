@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
