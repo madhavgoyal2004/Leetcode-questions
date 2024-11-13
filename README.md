@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
