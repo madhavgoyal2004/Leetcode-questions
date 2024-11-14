@@ -2,9 +2,9 @@ class Solution {
     public boolean canDistribute(int [] quantities, int mid, int n){
         int sum = 0;
         for(int i : quantities){
-            // if(i % mid == 0) sum += i/(double)mid;
-            // else sum += (i/(double)mid + 1);
-            sum += (i+mid-1)/mid;
+            if(i % mid == 0) sum += i/(double)mid;
+            else sum += (i/(double)mid + 1);
+            // sum += (i+mid-1)/mid;
         }
 
         return sum <= n;
