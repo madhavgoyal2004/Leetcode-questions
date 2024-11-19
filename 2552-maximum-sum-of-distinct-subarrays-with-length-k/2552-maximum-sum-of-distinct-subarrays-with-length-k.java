@@ -1,6 +1,7 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        HashSet<Integer> set = new HashSet<>();
+        // HashSet<Integer> set = new HashSet<>();
+        boolean [] arr = new boolean[(int)1e5+1];
 
         int i=0;
         int j=0;
@@ -8,15 +9,15 @@ class Solution {
         long max = 0;
         while (j < nums.length){
             while(j < nums.length && j-i+1 <= k){
-                if(!set.contains(nums[j])){
-                    set.add(nums[j]);
+                if(!arr[nums[j]]){
+                    arr[nums[j]] = true;
                     sum += nums[j];
                     j++;
                 }
                 else{
-                    while(set.contains(nums[j])){
+                    while(arr[nums[j]]){
                         sum -= nums[i];
-                        set.remove(nums[i]);
+                        arr[nums[i]] = false;
                         i++;
                     }
                 }
@@ -25,7 +26,7 @@ class Solution {
             if(j-i+1 > k){
                 max = Math.max(max, sum);
                 sum -= nums[i];
-                set.remove(nums[i]);
+                arr[nums[i]] = false;
                 i++;
             }
         }
