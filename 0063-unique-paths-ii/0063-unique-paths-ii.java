@@ -1,27 +1,38 @@
 class Solution {
-    public int helper(int [][] arr, int m, int n, int i, int j, int [][] dp){
-        if(i >= m || j >= n || arr[i][j] == 1){
-            return 0;
+    public int uniquePathsWithObstacles(int[][] nums) {
+        if(nums[0][0] == 1) return 0;
+        nums[0][0] = 1;
+        int m = nums.length;
+        int n = nums[0].length;
+
+        for(int i=1; i<m; i++){
+            if(nums[i][0] == 1){
+                nums[i][0] = 0;
+            }
+            else{
+                nums[i][0] = nums[i-1][0];
+            }
         }
-        if(i == m-1 && j == n-1){
-            return 1;
+        for(int j=1; j<n; j++){
+            if(nums[0][j] == 1){
+                nums[0][j] = 0;
+            }
+            else{
+                nums[0][j] = nums[0][j-1];
+            }
         }
 
-        if(dp[i][j] != -1) return dp[i][j];
-        int r = helper(arr, m, n, i, j+1, dp);
-        int d = helper(arr, m, n, i+1, j, dp);
+        for(int i=1; i<m; i++){
+            for(int j=1; j<n; j++){
+                if(nums[i][j] == 1){
+                    nums[i][j] = 0;
+                }
+                else{
+                    nums[i][j] = nums[i-1][j] + nums[i][j-1];
+                }
+            }
+        }
 
-        return dp[i][j] = r+d;
-
-    }
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        int m = obstacleGrid.length;
-        int n = obstacleGrid[0].length;
-
-        int [][] dp = new int[m+1][n+1];
-
-        for(int [] row : dp) Arrays.fill(row, -1);
-    
-        return helper(obstacleGrid, m , n , 0 , 0, dp);
+        return nums[m-1][n-1];
     }
 }
