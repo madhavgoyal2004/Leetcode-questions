@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
