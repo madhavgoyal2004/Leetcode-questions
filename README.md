@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Linked List
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1304-longest-happy-string) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Math
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Stack
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
