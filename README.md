@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0812-rotate-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0684-redundant-connection](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0801-is-graph-bipartite) |
