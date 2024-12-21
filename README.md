@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0787-sliding-puzzle](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2089-maximum-matrix-sum) |
