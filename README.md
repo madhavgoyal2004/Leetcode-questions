@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0299-bulls-and-cows) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
