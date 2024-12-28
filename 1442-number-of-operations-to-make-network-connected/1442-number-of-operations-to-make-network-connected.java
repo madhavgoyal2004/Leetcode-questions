@@ -30,8 +30,6 @@ class Solution {
         for(int [] arr : connections){
             union(parent, rank, arr[0], arr[1]);
         }
-        System.out.println(Arrays.toString(parent));
-        System.out.println(Arrays.toString(rank));
 
         int m = 0;
         for(int i=0; i<n; i++){
