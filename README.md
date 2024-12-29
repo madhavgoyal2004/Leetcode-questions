@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Linked List
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3394-minimum-array-end) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
