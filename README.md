@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
