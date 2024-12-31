@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
+| [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
+| [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
