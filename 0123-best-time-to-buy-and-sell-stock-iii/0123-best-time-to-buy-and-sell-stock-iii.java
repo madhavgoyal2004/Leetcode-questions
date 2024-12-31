@@ -31,22 +31,27 @@ class Solution {
         //     }
         // }
 
+        // here we replace dp[ind+1] to after and dp[ind] to curr
+        int [][] after = new int[2][3];
+        int [][] curr = new int[2][3];
+
         for(int ind=n-1; ind>=0; ind--){
             for(int buy=0; buy<=1; buy++){
                 for(int cap=1; cap<=2; cap++){
                     if(buy == 1){
-                        int kharida = -prices[ind] + dp[ind+1][0][cap];
-                        int nhi_kharida = 0 + dp[ind+1][1][cap];
-                        dp[ind][buy][cap] = Math.max(kharida, nhi_kharida);
+                        int kharida = -prices[ind] + after[0][cap];
+                        int nhi_kharida = 0 + after[1][cap];
+                        curr[buy][cap] = Math.max(kharida, nhi_kharida);
                     }else {
-                        int becha = prices[ind] + dp[ind+1][1][cap-1];
-                        int nhi_becha = 0 + dp[ind+1][0][cap];
-                        dp[ind][buy][cap] = Math.max(becha, nhi_becha);
+                        int becha = prices[ind] + after[1][cap-1];
+                        int nhi_becha = 0 + after[0][cap];
+                        curr[buy][cap] = Math.max(becha, nhi_becha);
                     }
                 }
             }
+            after = curr;
         }
-        return dp[0][1][2];
+        return after[1][2];
         
 
     }
