@@ -24,18 +24,30 @@ class Solution {
     }
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int [][][] dp = new int[n][2][3];
-        for(int i=0; i<n; i++){
-            for(int j=0; j<2; j++){
-                Arrays.fill(dp[i][j], -1);
+        int [][][] dp = new int[n+1][2][3];
+        // for(int i=0; i<n; i++){
+        //     for(int j=0; j<2; j++){
+        //         Arrays.fill(dp[i][j], -1);
+        //     }
+        // }
+
+        for(int ind=n-1; ind>=0; ind--){
+            for(int buy=0; buy<=1; buy++){
+                for(int cap=1; cap<=2; cap++){
+                    if(buy == 1){
+                        int kharida = -prices[ind] + dp[ind+1][0][cap];
+                        int nhi_kharida = 0 + dp[ind+1][1][cap];
+                        dp[ind][buy][cap] = Math.max(kharida, nhi_kharida);
+                    }else {
+                        int becha = prices[ind] + dp[ind+1][1][cap-1];
+                        int nhi_becha = 0 + dp[ind+1][0][cap];
+                        dp[ind][buy][cap] = Math.max(becha, nhi_becha);
+                    }
+                }
             }
         }
-        return find(prices, 0, 1, 2, dp);
-        // int [][] curr = new int[3][];
-        // int [][] next = new int[3][];
+        return dp[0][1][2];
+        
 
-        // if(buy)
-        // System.out.println(Arrays.toString(curr));
-        // return 0;
     }
 }
