@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2226-rings-and-rods](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2226-rings-and-rods) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
 | [2089-maximum-matrix-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
