@@ -1,9 +1,9 @@
 class Solution {
     public boolean doesValidArrayExist(int[] derived) {
-        int count1 = 0;
+        int xor = 0;
         for(int i : derived){
-            if(i == 1) count1++;
+            xor ^= i;
         }
-        return count1 % 2 == 0;
+        return xor == 0;
     }
 }
