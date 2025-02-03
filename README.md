@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
