@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
