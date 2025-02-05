@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2226-rings-and-rods](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2226-rings-and-rods) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2226-rings-and-rods](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2226-rings-and-rods) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
