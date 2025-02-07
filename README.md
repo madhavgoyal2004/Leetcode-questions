@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
