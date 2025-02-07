@@ -15,7 +15,7 @@ class Solution {
             }
             map_ball.put(query[0], query[1]);
             map_color.put(query[1], map_color.getOrDefault(query[1], 0) + 1);
-            arr[i] = Math.min(map_ball.size(), map_color.size());
+            arr[i] = map_color.size();
         }
         return arr;
     }
