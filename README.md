@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3447-clear-digits) |
 ## Database
 |  |
 | ------- |
