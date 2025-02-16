@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0056-merge-intervals) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
