@@ -36,8 +36,6 @@ class Solution {
                 count += helper(prefix, i, j, target);
             }
         }
-
-        System.out.println(Arrays.deepToString(prefix));
         return count;
 
     }
