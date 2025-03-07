@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1477-product-of-the-last-k-numbers](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1940-maximum-xor-for-each-query) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2089-maximum-matrix-sum) |
