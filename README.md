@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3643-zero-array-transformation-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
