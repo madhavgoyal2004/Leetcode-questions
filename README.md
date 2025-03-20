@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2201-valid-arrangement-of-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
