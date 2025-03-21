@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0060-permutation-sequence) |
+| [0371-sum-of-two-integers](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0670-maximum-swap) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [1940-maximum-xor-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
