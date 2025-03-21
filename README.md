@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3429-special-array-i) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3394-minimum-array-end) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Stack
 |  |
