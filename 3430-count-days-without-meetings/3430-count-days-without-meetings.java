@@ -2,7 +2,6 @@ class Solution {
     public int countDays(int days, int[][] meetings) {
         int n = meetings.length;
         Arrays.sort(meetings, (a,b) -> a[0] - b[0]);
-        System.out.println(Arrays.deepToString(meetings));
         int count = days;
         int start = Integer.MAX_VALUE;
         int close = 0;
