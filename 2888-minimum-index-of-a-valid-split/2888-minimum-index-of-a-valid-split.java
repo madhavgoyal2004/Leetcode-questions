@@ -1,25 +1,29 @@
 class Solution {
     public int minimumIndex(List<Integer> nums) {
         int n = nums.size();
-        HashMap<Integer,Integer> map = new HashMap<>();
-
-        for(int i : nums){
-            map.put(i, map.getOrDefault(i, 0) + 1);
-        }
-
-        int dominating = 0;
         int freq = 0;
-        for(int num : map.keySet()){
-            if(map.get(num) > freq){
-                dominating = num;
-                freq = map.get(num);
+        int dom = -1;
+        for(int i : nums){
+            if(freq == 0){
+                dom = i;
+                freq++;
             }
+            else if(dom == i){
+                freq++;
+            }
+            else{
+                freq--;
+            }
+        }
+        freq = 0;
+        for(int i=0; i<n; i++){
+            if(dom == nums.get(i)) freq++;
         }
         
         int count = 0;
 
         for(int i=0; i<n; i++){
-            if(nums.get(i) == dominating){
+            if(nums.get(i) == dom){
                 count++;
             }  
             if(count * 2 > i+1 && (freq-count)*2 > n - (i+1)){
