@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2226-rings-and-rods](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2201-valid-arrangement-of-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Bitmask
 |  |
 | ------- |
