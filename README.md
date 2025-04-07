@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
