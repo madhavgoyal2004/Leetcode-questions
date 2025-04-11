@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1484-linked-list-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
