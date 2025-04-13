@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
