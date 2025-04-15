@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1503-reducing-dishes](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1503-reducing-dishes) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1761-count-sorted-vowel-strings) |
 | [2262-solving-questions-with-brainpower](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/3447-clear-digits) |
 ## Database
