@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0729-my-calendar-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1086-divisor-game](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0542-01-matrix](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/1036-rotting-oranges) |
