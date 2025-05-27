@@ -1,30 +1,32 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        // Red -> 0 , Blue -> 1
+        // 0 -> red, 1 -> blue
         int n = graph.length;
-        int [] color = new int[n];
-        Arrays.fill(color, -1);
+        int [] arr = new int [n];
+        Arrays.fill(arr, -1);
 
 
-        for(int vtx = 0; vtx < n; vtx++){
-            color[0] = 0;
-            Queue<Integer> q = new LinkedList<>();
-            q.add(vtx);
-            while(!q.isEmpty()){
-                int curr = q.poll();
-                for(int nbr : graph[curr]){
-                    if(color[nbr] == -1){
-                        color[nbr] = 1 - color[curr];
-                        q.add(nbr);
-                    }
-                    else if(color[nbr] == color[curr]){
-                        return false;
+        for(int vtx = 0; vtx <n; vtx ++){
+            if(arr[vtx] == -1){
+                Queue<Integer> q = new LinkedList<>();
+                q.add(vtx);
+                arr[vtx] = 0;
+
+                while(!q.isEmpty()){
+                    int curr = q.poll();
+
+                    for(int nbr : graph[curr]){
+                        if(arr[nbr] == -1){
+                            arr[nbr] = 1 - arr[curr];
+                            q.add(nbr);
+                        } else if(arr[nbr] == arr[curr]){
+                            return false;
+                        }
                     }
                 }
             }
         }
 
         return true;
-
     }
 }
