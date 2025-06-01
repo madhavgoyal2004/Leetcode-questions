@@ -1,46 +1,73 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> graph  =  new ArrayList<>();
+    public void dfs(ArrayList<ArrayList<Integer>> graph, boolean [] visited, int src, Stack<Integer> st){
 
-        for(int i=0; i<numCourses ; i++){
+        visited[src] = true;
+
+        for(int nbr : graph.get(src)){
+            if(!visited[nbr])
+            dfs(graph, visited, nbr, st);
+        }
+        
+        st.push(src);
+
+    }
+
+    public boolean cycle(ArrayList<ArrayList<Integer>> graph, boolean[] visited, boolean[] path_visited, int src){
+        visited[src] = true;
+        path_visited[src] = true;
+
+        for(int nbr :  graph.get(src)){
+            if(!visited[nbr]){
+                if(cycle(graph, visited, path_visited, nbr)) return true;
+            }
+            else if(visited[nbr] && path_visited[nbr]) return true;
+        }
+
+        path_visited[src] = false;
+
+        return false;
+    }
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        boolean [] visited = new boolean[numCourses];
+        boolean [] path_visited = new boolean[numCourses];
+
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+
+        for(int i=0; i<numCourses;i++){
             graph.add(new ArrayList<>());
         }
 
         for(int [] arr : prerequisites){
-            graph.get(arr[0]).add(arr[1]);
+            int a = arr[0];
+            int b = arr[1];
+            graph.get(b).add(a);
         }
 
-        boolean [] visited = new boolean [numCourses];
-        // Stack<Integer> st = new Stack<>();
-        ArrayList<Integer> list = new ArrayList<>();
+        boolean cycle = false;
         for(int i=0; i<numCourses; i++){
             if(!visited[i]){
-                topoSort(graph, list, i, visited);
+                if(cycle(graph, visited, path_visited, i)) cycle = true;
             }
         }
-        System.out.println(list);
-        int [] new_arr = new int[list.size()];
-        for(int i=0; i<list.size(); i++){
-            new_arr[i] = list.get(i);
-        }
 
-        for(int [] arr : prerequisites){
-            int a = list.indexOf(arr[0]);
-            int b = list.indexOf(arr[1]);
+        if(cycle) return new int [] {};
 
-            if(a < b) return new int [] {};
-        }
+        Arrays.fill(visited, false);
 
-        return new_arr;
-    }
-
-    public void topoSort(ArrayList<ArrayList<Integer>> graph, ArrayList<Integer> list, int src, boolean [] visited){
-        visited[src] = true;
-        for(int nbr : graph.get(src)){
-            if(!visited[nbr]){
-                topoSort(graph, list, nbr, visited);
+        Stack<Integer> st = new Stack<>();
+        for(int i=0; i<numCourses; i++){
+            if(!visited[i]){
+                dfs(graph, visited, i, st);
             }
         }
-        list.add(src);
+        
+        int [] arr = new int[numCourses];
+        int i=0;
+        while(!st.isEmpty()){
+            arr[i] = st.pop();
+            i++;
+        }
+
+        return arr;
     }
 }
