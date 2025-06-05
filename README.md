@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0060-permutation-sequence) |
+| [0343-integer-break](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/madhavgoyal2004/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
